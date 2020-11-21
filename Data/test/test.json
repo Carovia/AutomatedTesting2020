@@ -1,0 +1,65 @@
+{
+  "class": "com.android.internal.policy.PhoneWindow$DecorView",
+  "bounds": [
+    0,
+    0,
+    1440,
+    2560
+  ],
+  "children": [
+    {
+      "class": " android.widget.RelativeLayout",
+      "bounds": [
+        1097,
+        2448,
+        57,
+        57
+      ]
+    },
+    {
+      "class": " android.widget.RelativeLayout",
+      "bounds": [
+        688,
+        2444,
+        65,
+        65
+      ]
+    },
+    {
+      "class": " android.widget.RelativeLayout",
+      "bounds": [
+        695,
+        2451,
+        52,
+        52
+      ]
+    },
+    {
+      "class": " android.widget.RelativeLayout",
+      "bounds": [
+        288,
+        2444,
+        56,
+        65
+      ]
+    },
+    {
+      "class": " android.widget.RelativeLayout",
+      "bounds": [
+        0,
+        279,
+        1440,
+        2113
+      ]
+    },
+    {
+      "class": " android.widget.RelativeLayout",
+      "bounds": [
+        1323,
+        149,
+        65,
+        65
+      ]
+    }
+  ]
+}
